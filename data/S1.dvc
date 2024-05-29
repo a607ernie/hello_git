@@ -1,8 +1,0 @@
-outs:
-- hash: md5
-  path: S1
-  files:
-  - relpath: kfold/hello.txt
-    md5: ea515ea5c08f01accb93040060ee7322
-  - relpath: kfold/hello2.txt
-    md5: a98f6f64e6cdfac22ab2ffd15a7241e3
