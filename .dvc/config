@@ -4,4 +4,4 @@
     url = webdavs://app.koofr.net/dav/Koofr/PCPL
     user = kuon60717@gmail.com
     password = yv8wo0gqsxorrxcj
-    config = .dvc/dvc_file
+    config = .dvc/config
