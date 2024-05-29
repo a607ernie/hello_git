@@ -1,6 +1,6 @@
 [core]
-    remote = koofr
+    remote = teracloud
 ['remote "koofr"']
-    url = webdavs://app.koofr.net/dav/Koofr/PCPL
-    user = kuon60717@gmail.com
-    password = yv8wo0gqsxorrxcj
+    url = webdavs://miya.teracloud.jp/dav/PCPL
+    user = a607ernie
+    password = x9Wg5zYaEqhMnAtK
