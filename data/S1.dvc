@@ -1,0 +1,6 @@
+outs:
+- md5: f359a21e3a4b246686d7cd68dc3493ee.dir
+  size: 20
+  nfiles: 2
+  hash: md5
+  path: S1
