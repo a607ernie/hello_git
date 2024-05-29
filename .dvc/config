@@ -1,4 +1,4 @@
 [core]
     remote = koofr
 ['remote "koofr"']
-    url = https://app.koofr.net/dav/Koofr
+    url = https://app.koofr.net/dav/Koofr/TrainData
