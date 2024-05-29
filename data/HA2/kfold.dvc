@@ -1,0 +1,6 @@
+outs:
+- md5: bd749dd1b1d4dba8e883fcf90f464b8a.dir
+  size: 20
+  nfiles: 2
+  hash: md5
+  path: kfold
