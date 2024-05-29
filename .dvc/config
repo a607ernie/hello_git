@@ -1,6 +1,6 @@
 [core]
     remote = koofr
 ['remote "koofr"']
-    url = https://app.koofr.net/dav/Koofr/PCPL/
+    url = webdav://app.koofr.net/dav/Koofr/PCPL/
     user = kuon60717@gmail.com
     password = yv8wo0gqsxorrxcj
