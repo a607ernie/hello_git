@@ -1,6 +1,6 @@
 [core]
     remote = teracloud
 ['remote "teracloud"']
-    url = webdavs://miya.teracloud.jp/dav/PCPL
+    url = webdavs://miya.teracloud.jp/dav/files/PCPL
     user = a607ernie
     password = pSVzdJDs35ZgMaTY
