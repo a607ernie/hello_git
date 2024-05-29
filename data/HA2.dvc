@@ -1,6 +1,12 @@
 outs:
-- md5: d1dd5880e5139a7a8699dbdd5f52347c.dir
-  size: 41
-  nfiles: 4
-  hash: md5
+- hash: md5
   path: HA2
+  files:
+  - relpath: kfold/hello.txt
+    md5: ea515ea5c08f01accb93040060ee7322
+  - relpath: kfold/hello2.txt
+    md5: a98f6f64e6cdfac22ab2ffd15a7241e3
+  - relpath: unlabel/hello1.txt
+    md5: ea515ea5c08f01accb93040060ee7322
+  - relpath: unlabel/hello21.txt
+    md5: 5b2b063acea6e9f0a53e8a3ee51ef829
