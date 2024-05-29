@@ -1,0 +1,5 @@
+outs:
+- md5: 5ebf8364d17c8df7e4afd586c24f84a0
+  size: 3
+  hash: md5
+  path: te.txt
