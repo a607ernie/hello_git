@@ -3,4 +3,4 @@ outs:
   size: 251
   nfiles: 17
   hash: md5
-  path: data-prepare
+  path: ../data-prepare
